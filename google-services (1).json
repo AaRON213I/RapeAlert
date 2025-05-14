@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758315187572",
+    "project_id": "padayon-7e758",
+    "storage_bucket": "padayon-7e758.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758315187572:android:5d267a6ce373508d104021",
+        "android_client_info": {
+          "package_name": "com.company.padayon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujvWR8Pr29oymqHyLKvHs8qOFEonQHi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
